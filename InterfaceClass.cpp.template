@@ -1,0 +1,9 @@
+%COPYRIGHT_LINE%
+
+%PCH_INCLUDE_DIRECTIVE%
+%MY_HEADER_INCLUDE_DIRECTIVE%
+%ADDITIONAL_INCLUDE_DIRECTIVES%
+// ReSharper disable once CppUnusedIncludeDirective
+#include UE_INLINE_GENERATED_CPP_BY_NAME($UNPREFIXED_CLASS_NAME$)
+
+// Add default functionality here for any I%UNPREFIXED_CLASS_NAME% functions that are not pure virtual.
